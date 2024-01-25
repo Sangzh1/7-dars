@@ -242,6 +242,7 @@ console.log(tubSonTekshirish(7)); // true
 console.log(tubSonTekshirish(12)); // false
 
 
+
 //no_8
 
 function palindromTekshirish(n) {
