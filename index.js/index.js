@@ -117,6 +117,7 @@ console.log(boluvchilarniTopish(12)); // [1, 2, 3, 4, 6, 12]
 console.log(boluvchilarniTopish(20)); // [1, 2, 4, 5, 10, 20]
 console.log(boluvchilarniTopish(7)); // [1, 7]
 
+
 function boluvchilarniTopish(son) {
   let boluvchilar = [];
 
